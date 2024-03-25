@@ -42,8 +42,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Project ini melakukan research open source model NL2SQL (Natural-Language-to-SQL). Model tersebut dapat diimplementasikan sebagai chatbot yang dapat berinteraksi dengan database. Sehingga kita dapat mengambil atau mengetahui data perusahaan dengan lebih mudah karena hanya menggunakan natural language (bukan menggunakan SQL secara langsung).
-
 This project conducts open-source research on the NL2SQL (Natural-Language-to-SQL) model. This model can be implemented as a chatbot that can interact with the database. We can retrieve or find company data more quickly because we only use natural language (not SQL).
 
 Below is an example of using the model (Tapex model).
