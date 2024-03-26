@@ -14,24 +14,11 @@
   <p>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
+    <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#background">Background</a></li>
     <li><a href="#business-values">Business Values</a></li>
-    <li><a href="#llm-model">LLM Model</a></li>
-    <li><a href="#how-to-works">How to Works</a></li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
+    <li><a href="#research">Research</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#Reference">Reference</a></li>
   </ol>
   </p>
 </details>
