@@ -33,6 +33,8 @@ This project conducts open-source research on the NL2SQL (Natural-Language-to-SQ
 
 Below is an example of using the model (Tapex model).
 
+https://github.com/ALDOPUTRA07/database_chatbot/assets/123882693/ca7e4f7e-6afa-4b6b-a33b-ac9228decb10
+
 
 
 ## Background
